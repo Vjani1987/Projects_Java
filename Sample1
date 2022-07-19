@@ -1,0 +1,6 @@
+public static void main(String[] args) {
+Scanner sc= new scanner(system.in);
+int No1=sc.nextInt();
+int No2=sc.nextint();
+System.out.println(No1/No2);
+}
